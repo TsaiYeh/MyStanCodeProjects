@@ -1,5 +1,5 @@
 ## My "StanCode" Projects
-Hello there!\
+Hello!\
 This repository holds my programming projects done during the period of StanCode SC001 and SC101 courses.
 
 Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
@@ -11,7 +11,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * Python semantics and syntax
 * [My photoshop]()*
   * Image processing
-* [blur_image]()
+* [blur_image](https://github.com/TsaiYeh/MyStanCodeProjects/blob/main/blur_image/blur.py)
   * Image processing
 * [Pedestrian removing application]()*
   * Image processing
