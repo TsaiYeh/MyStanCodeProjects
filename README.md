@@ -15,7 +15,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * Image processing
 * [Pedestrian removing application]()*
   * Image processing
-* [Breakout game]()*
+* [Breakout game](https://github.com/TsaiYeh/MyStanCodeProjects/tree/main/break_out_game)
   * Animation and game designing
 * [Name popularity search system]()*
   * Data structure and presenting
