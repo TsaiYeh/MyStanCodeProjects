@@ -21,5 +21,5 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * Data structure and presenting
 * [Anagrams](https://github.com/TsaiYeh/MyStanCodeProjects/blob/main/anagram/anagram.py)
   * recursive functions
-* [Boggle game]()*
+* [Boggle game solver](https://github.com/TsaiYeh/MyStanCodeProjects/blob/main/boggle_game_solver/boggle_final.py)
   * recursive functions
