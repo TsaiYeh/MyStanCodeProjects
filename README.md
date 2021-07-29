@@ -11,11 +11,15 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * Python semantics and syntax
 * [My photoshop]()*
   * Image processing
+* [blur_image]()
+  * Image processing
 * [Pedestrian removing application]()*
   * Image processing
 * [Breakout game]()*
   * Animation and game designing
 * [Name popularity search system]()*
   * Data structure and presenting
+* [Anagrams](https://github.com/TsaiYeh/MyStanCodeProjects/blob/main/anagram/anagram.py)
+  * recursive functions
 * [Boggle game]()*
   * recursive functions
